@@ -1,7 +1,7 @@
 import requests
 import csv
 
-API_KEY = 'c22e5e421f8e0d2011ad165bb61065a5'  # Ta vraie clé API
+API_KEY = 'c22e5e421f8e0d2011ad165bb61065a5'  # la clé API
 URL = 'https://gnews.io/api/v4/search'
 
 # Paramètres de la requête
@@ -45,4 +45,4 @@ with open(csv_filename, mode='w', encoding='utf-8', newline='') as csv_file:
             'theme': 'politique'
         })
 
-print(f"{len(data.get('articles', []))} articles enregistrés dans '{csv_filename}' ✅")
+print(f"{len(data.get('articles', []))} articles enregistrés dans '{csv_filename}'")

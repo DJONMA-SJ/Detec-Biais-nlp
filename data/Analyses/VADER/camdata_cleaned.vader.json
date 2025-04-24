@@ -1,0 +1,162 @@
+[
+  {
+    "Titre":"L'Allemagne est-elle en passe de prendre un virage historique dans sa politique budgétaire?",
+    "Texte intégral":"L'Allemagne a dévoilé mercredi son futur gouvernement et un accord de coalition entre conservateurs et socio-démocrates. Outre le blanc-seing laissé aux dépenses de défense, il marque aussi un véritable tournant en assouplissant le tabou de la rigueu... [4636 chars]",
+    "Date":"2025-04-10T13:23:41Z",
+    "Nom du média":"RTS.ch",
+    "URL":"https:\/\/www.rts.ch\/info\/monde\/2025\/article\/allemagne-virage-historique-vers-une-politique-budgetaire-plus-souple-28850725.html",
+    "Thème":"politique",
+    "cleaned_Titre":"lallemagn estelle passer prendre virage historique politique budgétaire",
+    "cleaned_Texte intégral":"lallemagne dévoiler mercredi futur gouvernement accord coalition conservateur sociodémocrate blancseing laisser dépense défense marque véritable tournant assouplir tabou rigueu char",
+    "vader_sentiment":{
+      "neg":0.0,
+      "neu":0.64,
+      "pos":0.36,
+      "compound":0.7906
+    }
+  },
+  {
+    "Titre":"Pourquoi Donald Trump met en danger les producteurs de pétrole américain ?",
+    "Texte intégral":"Depuis l’investiture de Donald Trump, le baril de pétrole est en baisse d’environ 20%, conséquence notamment de sa politique tarifaire. Pourtant, la baisse du prix de l’énergie était un des objectifs affichés pendant sa campagne. Seulement, l’idée de... [3600 chars]",
+    "Date":"2025-04-10T13:13:00Z",
+    "Nom du média":"Zonebourse.com",
+    "URL":"https:\/\/www.zonebourse.com\/actualite-bourse\/Pourquoi-Donald-Trump-met-en-danger-les-producteurs-de-petrole-americain--49584737\/",
+    "Thème":"politique",
+    "cleaned_Titre":"donald trump mettre danger producteur pétrol américain",
+    "cleaned_Texte intégral":"investitur donald trump baril pétrole baisse conséquence politique tarifaire pourtant baisse prix énergie objectif afficher campagn idée char",
+    "vader_sentiment":{
+      "neg":0.1,
+      "neu":0.796,
+      "pos":0.104,
+      "compound":0.0258
+    }
+  },
+  {
+    "Titre":"Loi PLM pour les municipales : ce que cela change pour Paris, Lyon et Marseille",
+    "Texte intégral":"Une proposition de loi visant à modifier le mode de scrutin dans les trois plus grandes villes françaises a été adoptée à l'Assemblée nationale. Elle doit encore être examinée au Sénat et pourrait entrainer d'importants changements pour les élections... [4827 chars]",
+    "Date":"2025-04-10T13:10:00Z",
+    "Nom du média":"Linternaute.com",
+    "URL":"https:\/\/www.linternaute.com\/actualite\/politique\/7683503-loi-plm-pour-les-municipales-ce-que-cela-change-pour-paris-lyon-et-marseille\/",
+    "Thème":"politique",
+    "cleaned_Titre":"loi plm municipal change pari lyon marseill",
+    "cleaned_Texte intégral":"proposition loi viser modifier mode scrutin grand ville français être adopter lassemblé national examiner sénat entrainer dimportant changement élection char",
+    "vader_sentiment":{
+      "neg":0.0,
+      "neu":0.849,
+      "pos":0.151,
+      "compound":0.5766
+    }
+  },
+  {
+    "Titre":"L’éternité en politique",
+    "Texte intégral":"Le chef conservateur, Pierre Poilievre, faisant la comparaison des engagements de son parti et de ceux du Parti libéral du Canada, lors d’un arrêt de campagne à Saint John’s, le 1 er avril\r\nImposition – et suspension – de droits de douane sans précéde... [7182 chars]",
+    "Date":"2025-04-10T13:00:00Z",
+    "Nom du média":"La Presse",
+    "URL":"https:\/\/www.lapresse.ca\/dialogue\/opinions\/2025-04-10\/l-eternite-en-politique.php",
+    "Thème":"politique",
+    "cleaned_Titre":"éternité politique",
+    "cleaned_Texte intégral":"chef conservateur pierre poilievre comparaison engagement parti partir libéral canada arrêt campagn saint s er avril imposition suspension droit douan précéde char",
+    "vader_sentiment":{
+      "neg":0.178,
+      "neu":0.681,
+      "pos":0.141,
+      "compound":0.0772
+    }
+  },
+  {
+    "Titre":"Affirmation, autonomie et leadership",
+    "Texte intégral":"Décédé prématurément le 30 mars 2024, Benoît Pelletier a contribué de manière exceptionnelle à la vie politique et constitutionnelle du Québec et du Canada.\r\nEmmanuelle Richez Professeure agrégée de science politique, Université de Windsor et ancienne... [4179 chars]",
+    "Date":"2025-04-10T13:00:00Z",
+    "Nom du média":"La Presse",
+    "URL":"https:\/\/www.lapresse.ca\/dialogue\/opinions\/2025-04-10\/reflexions-sur-l-heritage-de-benoit-pelletier\/affirmation-autonomie-et-leadership.php",
+    "Thème":"politique",
+    "cleaned_Titre":"affirmation autonomie leadership",
+    "cleaned_Texte intégral":"décéder prématurément mars benoît pelletier contribuer manière exceptionnel vie politique constitutionnel québec canada emmanuell richer professeure agrégé science politique université windsor ancien char",
+    "vader_sentiment":{
+      "neg":0.133,
+      "neu":0.741,
+      "pos":0.126,
+      "compound":-0.0516
+    }
+  },
+  {
+    "Titre":"Animations, contexte politique, personnalités : quatre bonnes raisons d’aller aux 80 ans de la Libération de la Poche de Lorient",
+    "Texte intégral":"1La majeure partie des animations sont libres d’accès La plupart des évènements du samedi 10 mai 2025 seront gratuits et ne nécessiteront pas d’inscriptions au préalable, sauf de rares exceptions. C’est notamment le cas de la cérémonie militaire, acc... [3330 chars]",
+    "Date":"2025-04-10T12:51:04Z",
+    "Nom du média":"Le Télégramme",
+    "URL":"https:\/\/www.letelegramme.fr\/morbihan\/lorient-56100\/animations-contexte-politique-personnalites-quatre-bonnes-raisons-daller-aux-80-ans-de-la-liberation-de-la-poche-de-lorient-6796271.php",
+    "Thème":"politique",
+    "cleaned_Titre":"animation contexte politique personnalité bon raison aller an libération poch lorier",
+    "cleaned_Texte intégral":"majeur partie animation libre accès plupart évènement samedi mai gratuit nécessiter inscription rare exception cas cérémonie militaire acc char",
+    "vader_sentiment":{
+      "neg":0.0,
+      "neu":0.739,
+      "pos":0.261,
+      "compound":0.7479
+    }
+  },
+  {
+    "Titre":"La classe politique divisée sur la reconnaissance de l'Etat palestinien",
+    "Texte intégral":"\"Enfin!\", \"prématuré\" : la classe politique française s'est divisée jeudi sur l'annonce par Emmanuel Macron que la France pourrait reconnaître \"en juin\" un État palestinien dans le cadre \"d'une dynamique collective\" de reconnaissances réciproques.\r\nLe... [3699 chars]",
+    "Date":"2025-04-10T11:56:01Z",
+    "Nom du média":"Actu Orange",
+    "URL":"https:\/\/actu.orange.fr\/politique\/la-classe-politique-divisee-sur-la-reconnaissance-de-l-etat-palestinien-CNT000002ih2mw.html",
+    "Thème":"politique",
+    "cleaned_Titre":"classe politique diviser reconnaissance letat palestinien",
+    "cleaned_Texte intégral":"prématuré classe politique français sest diviser jeudi lannonce emmanuel macron france reconnaître juin état palestinien cadre dun dynamique collectif reconnaissance réciproque char",
+    "vader_sentiment":{
+      "neg":0.0,
+      "neu":1.0,
+      "pos":0.0,
+      "compound":0.0
+    }
+  },
+  {
+    "Titre":"La classe politique divisée sur la reconnaissance de l'Etat palestinien",
+    "Texte intégral":"\"Enfin!\", \"prématuré\" : la classe politique française s'est divisée jeudi sur l'annonce par Emmanuel Macron que la France pourrait reconnaître \"en juin\" un État palestinien dans le cadre \"d'une dynamique collective\" de reconnaissances réciproques.\r\nLe... [3699 chars]",
+    "Date":"2025-04-10T11:56:01Z",
+    "Nom du média":"Actu Orange",
+    "URL":"https:\/\/actu.orange.fr\/france\/la-classe-politique-divisee-sur-la-reconnaissance-de-l-etat-palestinien-CNT000002ih2mw.html",
+    "Thème":"politique",
+    "cleaned_Titre":"classe politique diviser reconnaissance letat palestinien",
+    "cleaned_Texte intégral":"prématuré classe politique français sest diviser jeudi lannonce emmanuel macron france reconnaître juin état palestinien cadre dun dynamique collectif reconnaissance réciproque char",
+    "vader_sentiment":{
+      "neg":0.0,
+      "neu":1.0,
+      "pos":0.0,
+      "compound":0.0
+    }
+  },
+  {
+    "Titre":"Les effets de la politique douanière sur l’inflation",
+    "Texte intégral":"Les risques de ralentissement économique laissent entrevoir une nouvelle baisse des taux d'intérêt en avril.\r\nComment la situation évolue en quelques semaines. Si la Banque centrale européenne (BCE) n’avait pas encore totalement exclu une pause dans l... [1318 chars]",
+    "Date":"2025-04-10T11:38:20Z",
+    "Nom du média":"allnews.ch",
+    "URL":"https:\/\/www.allnews.ch\/content\/points-de-vue\/les-effets-de-la-politique-douani%C3%A8re-sur-l%E2%80%99inflation",
+    "Thème":"politique",
+    "cleaned_Titre":"effet politique douanier inflation",
+    "cleaned_Texte intégral":"risque ralentissemer économique laisser entrevoir nouveau baisse taux dintérêt avril situation évoluer semaine banque central européen bce totalement exclure paus l char",
+    "vader_sentiment":{
+      "neg":0.139,
+      "neu":0.662,
+      "pos":0.199,
+      "compound":0.2263
+    }
+  },
+  {
+    "Titre":"Droits de douane, État palestinien, Festival de Cannes : le point à la mi-journée",
+    "Texte intégral":"Droits de douane : la Chine appelle au compromis, les marchés boursiers euphoriques\r\nLes principales places boursières asiatiques et européennes ont, elles, rebondi , les investisseurs pariant sur une accalmie dans la guerre commerciale mondiale après... [3945 chars]",
+    "Date":"2025-04-10T11:00:39Z",
+    "Nom du média":"Le Télégramme",
+    "URL":"https:\/\/www.letelegramme.fr\/monde\/droits-de-douane-etat-palestinien-festival-de-cannes-le-point-a-la-mi-journee-6796185.php",
+    "Thème":"politique",
+    "cleaned_Titre":"droit douan état palestinien festival canne point mijourné",
+    "cleaned_Texte intégral":"droit douan chin appeler compromettre marché boursier euphorique principal place boursier asiatique européen rebondi investisseur parier accalmie guerre commercial mondial char",
+    "vader_sentiment":{
+      "neg":0.0,
+      "neu":1.0,
+      "pos":0.0,
+      "compound":0.0
+    }
+  }
+]

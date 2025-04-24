@@ -38,4 +38,4 @@ with open(csv_filename, mode='w', encoding='utf-8', newline='') as csv_file:
             'theme': theme
         })
 
-print(f"{len(feed.entries)} articles enregistrés dans '{csv_filename}' ✅")
+print(f"{len(feed.entries)} articles enregistrés dans '{csv_filename}'")
